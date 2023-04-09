@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Hiding properties till i figure out enviroment variables
+.properties
