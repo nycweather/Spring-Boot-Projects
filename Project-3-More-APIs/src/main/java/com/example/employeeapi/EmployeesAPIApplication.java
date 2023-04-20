@@ -1,13 +1,14 @@
-package com.example.project3moreapis;
+package com.example.employeeapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Project3MoreApIsApplication {
+public class EmployeesAPIApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(Project3MoreApIsApplication.class, args);
+
+        SpringApplication.run(EmployeesAPIApplication.class, args);
     }
 
 }
